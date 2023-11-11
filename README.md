@@ -17,3 +17,12 @@ Criando o projeto NextJs
 ```bash
 npm create vite@latest
 ```
+`
+
+## Pacotes
+
+[Ícones - phosphor-icons](https://github.com/phosphor-icons/react)
+
+```bash
+npm i @phosphor-icons/react
+```

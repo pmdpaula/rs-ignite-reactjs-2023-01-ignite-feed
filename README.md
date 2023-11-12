@@ -7,7 +7,6 @@ Rocketseat - Ignite 2023 - ReactJS - Projeto 01
 - ReactJs
 - Vite
 - ESlint
-- Typescript
 - CSS modules
 
 ## Início
